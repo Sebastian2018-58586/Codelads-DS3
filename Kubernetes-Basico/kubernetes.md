@@ -6,7 +6,7 @@ En esta guía aprenderás paso a paso cómo desplegar y gestionar una aplicació
 
 En esta sección configuraremos el entorno necesario para comenzar a trabajar con Kubernetes.
 
-![Preparar el entorno - Minikube iniciado](./Imagenes/kube1.png)  
+![Preparar el entorno - Minikube iniciado](./Imagenes/kube1.PNG)  
 *Minikube iniciado correctamente.*
 
 ![Preparar el entorno - Verificación del clúster](./Imagenes/kube2-1.png)  
@@ -34,7 +34,7 @@ Ahora crearemos y desplegaremos nuestra primera aplicación en Kubernetes utiliz
 
 Abrimos la aplicación en el navegador utilizando la URL proporcionada por Minikube o el servicio NodePort.
 
-![Acceder desde el navegador - vista en navegador](./Imagenes/kube7.png)  
+![Acceder desde el navegador - vista en navegador](./Imagenes/kube7.PNG)  
 *La aplicación se muestra correctamente en el navegador.*
 
 
