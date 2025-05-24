@@ -23,7 +23,7 @@ spec:
     spec:
       containers:
         - name: pais
-          image: alvarosalazar/pais-service:latest
+          image: alvarosalazar/auth-service:latest
           ports:
             - containerPort: 8080
           env:
