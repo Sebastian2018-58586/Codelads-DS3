@@ -14,3 +14,5 @@
 
 - **Arbol de Resultados**  
   ![Arbol - Crear](./Imagenes/Jmeter5.jpg)  
+
+- **Solucion de este codelab**
