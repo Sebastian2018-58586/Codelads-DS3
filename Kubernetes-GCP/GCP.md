@@ -12,5 +12,4 @@
 - **Ginit**  
   ![Consola - Crear](./Imagenes/cloud4.PNG)
 
- **Falta hacer mas el proceso pero este impide realizarlo ya que se necesita una cuenta de cobro y tener una tarjeta de credito**  
 
